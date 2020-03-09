@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a1823d-5bb0-45d3-950a-591d3f7aa093" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentDatabaseApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuHXSA7nFkGQdgCquc65ycFb2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a1823d-5bb0-45d3-950a-591d3f7aa093" name="Default Changelist" comment="" />
+      <created>1583785598890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583785598890</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="171" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583792912437">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="171" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1395.877/0.-877.1600.877@0.23.1395.877" timestamp="1583792912437" />
+    <state x="306" y="192" key="Vcs.Push.Dialog.v2" timestamp="1583792294260">
+      <screen x="0" y="23" width="1395" height="877" />
+    </state>
+    <state x="306" y="192" key="Vcs.Push.Dialog.v2/0.23.1395.877/0.-877.1600.877@0.23.1395.877" timestamp="1583792294260" />
+  </component>
+</project>
